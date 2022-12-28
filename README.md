@@ -1,3 +1,5 @@
+<img src="https://wallpaper.dog/large/20512772.jpg" style="width: 100%;" alt="coder background">
+
 <h1 align="center">Hi 👋, I'm Richmond Andoh</h1>
 <h3 align="center">A passionate Web developer from Ghane</h3>
 
