@@ -1,4 +1,4 @@
-<img src="https://wallpaper.dog/large/20512772.jpg" width="100%" alt="coder background">
+<img src="https://wallpaper.dog/large/20512772.jpg" width="100%" style="height: 60vh;" alt="coder background">
  <hr>
  <br>
 <h1 align="center">Hi 👋, I'm Richmond Andoh</h1>
