@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Richmond Andoh</h1>
 <h3 align="center">A passionate Web developer from Ghana</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=richmond-andoh&label=Profile%20views&color=0e75b6&style=flat](https://png.pngtree.com/element_our/20200609/ourmid/pngtree-children-s-software-programming-image_2230759.jpg)" alt="richmond-andoh" /> </p>
+<p align="left"> <img src="(https://png.pngtree.com/element_our/20200609/ourmid/pngtree-children-s-software-programming-image_2230759.jpg)" alt="richmond-andoh" /> </p>
 
 <br>
 
