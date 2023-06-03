@@ -1,11 +1,11 @@
-<div class="bg-primary" styel="background-color: teal;">
-<img src="https://wallpaper.dog/large/20512772.jpg" width="100%" style="height: 60vh;" alt="coder background">
- <hr>
+<img src="https://media.licdn.com/dms/image/D5612AQHg7gw9WG-N0Q/article-cover_image-shrink_600_2000/0/1681716804459?e=2147483647&v=beta&t=yU8h6luQvRbyOtl8jfS1fR-uVlDxVdxigvuE4F6-gSU" alt="richmond-andoh" /> 
+
+<hr>
  <br>
 <h1 align="center">Hi 👋, I'm Richmond Andoh</h1>
 <h3 align="center">A passionate Web developer from Ghana</h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D5612AQHg7gw9WG-N0Q/article-cover_image-shrink_600_2000/0/1681716804459?e=2147483647&v=beta&t=yU8h6luQvRbyOtl8jfS1fR-uVlDxVdxigvuE4F6-gSU" alt="richmond-andoh" /> </p>
+<p align="left"> </p>
 
 <br>
 
