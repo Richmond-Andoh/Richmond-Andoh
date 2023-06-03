@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Richmond Andoh</h1>
 <h3 align="center">A passionate Web developer from Ghana</h3>
 
-<p align="left"> <img src="(https://png.pngtree.com/element_our/20200609/ourmid/pngtree-children-s-software-programming-image_2230759.jpg)" alt="richmond-andoh" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D5612AQHg7gw9WG-N0Q/article-cover_image-shrink_600_2000/0/1681716804459?e=2147483647&v=beta&t=yU8h6luQvRbyOtl8jfS1fR-uVlDxVdxigvuE4F6-gSU" alt="richmond-andoh" /> </p>
 
 <br>
 
