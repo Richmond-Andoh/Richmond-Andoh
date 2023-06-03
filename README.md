@@ -1,8 +1,9 @@
+<div class="bg-primary">
 <img src="https://wallpaper.dog/large/20512772.jpg" width="100%" style="height: 60vh;" alt="coder background">
  <hr>
  <br>
 <h1 align="center">Hi 👋, I'm Richmond Andoh</h1>
-<h3 align="center">A passionate Web developer from Ghane</h3>
+<h3 align="center">A passionate Web developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richmond-andoh&label=Profile%20views&color=0e75b6&style=flat" alt="richmond-andoh" /> </p>
 
@@ -41,3 +42,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richmond-andoh&show_icons=true&locale=en" alt="richmond-andoh" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richmond-andoh&" alt="richmodn-andoh" /></p>
+
+
+
+
+
+</div>
