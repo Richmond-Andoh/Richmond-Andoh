@@ -1,21 +1,16 @@
-<img src="https://media.licdn.com/dms/image/D5612AQHg7gw9WG-N0Q/article-cover_image-shrink_600_2000/0/1681716804459?e=2147483647&v=beta&t=yU8h6luQvRbyOtl8jfS1fR-uVlDxVdxigvuE4F6-gSU" alt="richmond-andoh" /> 
+
 
 <hr>
  <br>
 <h1 align="center">Hi 👋, I'm Richmond Andoh</h1>
-<h3 align="center">A passionate Web developer from Ghana</h3>
+<h3 align="center">A passionate Aspiring Web developer from Ghana</h3>
 
 <p align="left"> </p>
 
 <br>
 
-- 🌱 I’m currently learning **React & PHP**
-
-- 💬 Ask me about **html, css, Bootstrap, javascript, react & php**
-
 - 📫 How to reach me **richmondandoh00@gmail.com**
 
-- ⚡ Fun fact **I actually funny and music lover**
 <br>
 
 <p align="left"> <a href="https://github.com/richmond-andoh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richmond-andoh" alt="richmon-andoh" /></a> </p>
