@@ -1,3 +1,5 @@
+# Hi there, I'm Richmond
+
 # 💫 About Me:
 - I'm currently immersed in developing a MERN (MongoDB, Express.js, React, Node.js) Stack application<br>I'm looking forward to collaborating on innovative MERN Stack projects, Open to teamwork, learning, and contributing to exciting ventures.<br>
 - I'm Open to insights, suggestions, and collaboration to enhance the project.<br>
