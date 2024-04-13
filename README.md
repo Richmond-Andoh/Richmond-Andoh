@@ -1,23 +1,16 @@
 # Hi there, I'm Richmond
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdF_bcSaGfF6kUFVPfPF27MpcVtGUWyQmu0FmM550d-RDmBtoyidJZlJIK6f7_USzGPT8&usqp=CAU" alt="gif image" />
 
 # 💫 About Me:
-<div style="display: flex; flex-direction: row;">
-  <div>
-    - I'm currently immersed in developing a MERN (MongoDB, Express.js, React, Node.js) Stack application<br>I'm looking forward to collaborating on innovative MERN 
-           Stack projects, Open to teamwork, learning, and contributing to exciting ventures.<br>
-    - I'm Open to insights, suggestions, and collaboration to enhance the project.<br>
-    - I'm currently working with the MERN Stack, utilizing MongoDB for the database, Express.js for server-side development, React for the frontend, and Node.js for 
+- I'm currently immersed in developing a MERN (MongoDB, Express.js, React, Node.js) Stack application<br>I'm looking forward to collaborating on innovative MERN 
+   Stack projects, Open to teamwork, learning, and contributing to exciting ventures.<br>
+- I'm Open to insights, suggestions, and collaboration to enhance the project.<br>
+- I'm currently working with the MERN Stack, utilizing MongoDB for the database, Express.js for server-side development, React for the frontend, and Node.js for 
       server-side runtime. <br>
-    - Feel free to ask me about anything related to MERN Stack development, including React component lifecycle, state management with Redux, RESTful API design with 
+- Feel free to ask me about anything related to MERN Stack development, including React component lifecycle, state management with Redux, RESTful API design with 
        Express.js, or MongoDB data modeling. I'm happy to share insights and exchange ideas.<br>
-    - In between coding sessions, I enjoy exploring new coffee shops, experimenting with new recipes, or participating in coding challenges. Let's connect not only on 
+- In between coding sessions, I enjoy exploring new coffee shops, experimenting with new recipes, or participating in coding challenges. Let's connect not only on 
      tech but also on shared interests outside the coding world!
-  </div>
-  <div>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdF_bcSaGfF6kUFVPfPF27MpcVtGUWyQmu0FmM550d-RDmBtoyidJZlJIK6f7_USzGPT8&usqp=CAU" alt="gif image" />
-  </div>
-</div>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/richyandoh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/richyandoh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/richmond-andoh-65443b234/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/twitter.com/RichmondAndoh17) 
