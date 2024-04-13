@@ -1,7 +1,7 @@
 # Hi there, I'm Richmond
 
 # 💫 About Me:
-<div style="display: flex; ">
+<div style="display: flex; flex-direction: row;">
   <div>
     - I'm currently immersed in developing a MERN (MongoDB, Express.js, React, Node.js) Stack application<br>I'm looking forward to collaborating on innovative MERN 
            Stack projects, Open to teamwork, learning, and contributing to exciting ventures.<br>
