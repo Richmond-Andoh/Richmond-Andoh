@@ -1,5 +1,4 @@
 # Hi there, I'm Richmond
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdF_bcSaGfF6kUFVPfPF27MpcVtGUWyQmu0FmM550d-RDmBtoyidJZlJIK6f7_USzGPT8&usqp=CAU" alt="gif image" />
 
 # 💫 About Me:
 - I'm currently immersed in developing a MERN (MongoDB, Express.js, React, Node.js) Stack application<br>I'm looking forward to collaborating on innovative MERN 
