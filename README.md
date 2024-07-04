@@ -1,4 +1,8 @@
-# Hi there, I'm Richmond
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Richmond+Andoh!;" />
+</h1>
 
 # 💫 About Me:
 - I'm currently immersed in developing a MERN (MongoDB, Express.js, React, Node.js) Stack application<br>I'm looking forward to collaborating on innovative MERN 
