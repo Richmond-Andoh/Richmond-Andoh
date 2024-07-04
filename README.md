@@ -30,8 +30,9 @@
 
 <br>
 
-![contribution graph](https://raw.githubusercontent.com/richmond-andoh/richmond-andoh/main/dist/github-contribution-grid-snake.svg)
-
+<div align="center">
+<img  src="https://raw.githubusercontent.com/richmond-andoh/richmond-andoh/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
