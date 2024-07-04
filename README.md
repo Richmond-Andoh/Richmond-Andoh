@@ -26,6 +26,8 @@
 
 <br>
 
+![contribution graph](https://raw.githubusercontent.com/richmond-andoh/richmond-andoh/main/dist/github-contribution-grid-snake.svg)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
