@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Richmond+Andoh!;+An+Aspiring+Full-Stack+Developer" />
     
 </h1>
-[![An image of @richmondandoh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/richmondandoh)](https://holopin.io/@richmondandoh)
 
 <img src="https://camo.githubusercontent.com/00c75cf3e839252bbc2ef783f896d24495f2eb6b3d2538a32a59abc47810b371/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f43344531324151486f6861614a6d36714e4e772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3432335f3735322f302f313633303532363435353337303f653d3137323234373034303026763d6265746126743d4668672d3353794b546432536e3657457854463555444c4577506850614466356748454b374e47616a556f" alt="coding" />
 
@@ -63,5 +62,5 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-
+[![An image of @richmondandoh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/richmondandoh)](https://holopin.io/@richmondandoh)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
